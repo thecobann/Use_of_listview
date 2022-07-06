@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Huawei Phone Models</string>
+    <string name="text_1">Android List View</string>
+    <string name="btn_text_1">ListView-1</string>
+    <string name="btn_text_2">ListView-2</string>
+    <string name="btn_text_3">ListView-3</string>
+    <string-array name="Phonesname">
+        <item name="phone">Huawei P Smart</item>
+        <item name="phone">HUAWEI P50 Pocket</item>
+        <item name="phone">HUAWEI P50 Pro</item>
+        <item name="phone">Huawei P50E</item>
+        <item name="phone">HUAWEI Mate Xs 2</item>
+        <item name="phone">HUAWEI Mate 40 Pro</item>
+        <item name="phone">HUAWEI Mate Xs</item>
+        <item name="phone">HUAWEI Mate 30 Pro</item>
+        <item name="phone">HUAWEI nova 9</item>
+        <item name="phone">HUAWEI nova 9 SE</item>
+        <item name="phone">HUAWEI Y6p</item>
+        <item name="phone">Huawei Y7p</item>
+        <item name="phone">Huawei Y8p</item>
+        <item name="phone">Huawei Y9p</item>
+        <item name="phone">Honor Magic 3 Pro+</item>
+        <item name="phone">Honor Magic 3 SE</item>
+
+    </string-array>
+</resources>
